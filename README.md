@@ -3,7 +3,7 @@
 
 * Pareto
 
-> Come soon!
+> Coming soon!
 
 * Main Effects
 
