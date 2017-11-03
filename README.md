@@ -3,7 +3,9 @@
 
 * Pareto
 
-> Coming soon!
+<p align="center">
+  <img src="ParetoChart.png" width="80%">
+</p>
 
 * Main Effects
 
