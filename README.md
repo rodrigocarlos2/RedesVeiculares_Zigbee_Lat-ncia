@@ -13,4 +13,4 @@
 
 # Credits
 
-* Leo e Rodrigo
+* Leo, Diego e Rodrigo
