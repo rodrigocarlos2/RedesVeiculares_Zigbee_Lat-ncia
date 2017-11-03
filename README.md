@@ -8,7 +8,7 @@
 * Main Effects
 
 <p align="center">
-  <img src="maineffects.png" width="80%">
+  <img src="imageeffects.png" width="80%">
 </p>
 
 # Credits
